@@ -8,7 +8,6 @@
 - [E-Commerce Shop Backend](https://github.com/KubackiKacper/ECommerceBackend)
 - [E-Commerce Shop Frontend](https://github.com/KubackiKacper/ECommerceFrontend)
 - [.Net MVC CRUD Web App](https://github.com/KubackiKacper/CRUD-MVC)
-- [Bridge Setup Wizard (Python / CustomTKInter / Netmiko)](https://github.com/KubackiKacper/BSW)
 
 ## 🛠️ Technologies I Work With
     - C#,
