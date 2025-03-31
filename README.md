@@ -10,10 +10,10 @@
 - [.Net MVC CRUD Web App](https://github.com/KubackiKacper/CRUD-MVC)
 
 ## 🛠️ Technologies I Work With
-    - C#,
-    - .Net / .Net - WebAPI / .Net - MVC
-    - React.js + TypeScript
-    - SQL,
-    - HTML5,
-    - CSS,
-    - Git / GitHub
+- C#,
+- .Net / .Net - WebAPI / .Net - MVC
+- React.js + TypeScript
+- SQL,
+- HTML5,
+- CSS,
+- Git / GitHub
